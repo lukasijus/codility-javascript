@@ -11,3 +11,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [MissingInteger](MissingInteger.md) 33 %
 ## [CountDiv](CountDiv.md) 50 %
 ## [GenomicRangeQuery](GenomicRangeQuery.md) 62 %
+## [DistinctNum](Distinct.md) 100 %
