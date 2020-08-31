@@ -5,3 +5,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [CyclicRotation](CyclicRotation.md) 100%
 ## [OddOccurrenciesInArray](OddOccurrenciesInArray.md) 33%
 ## [FrogJmp](FrogJmp.md) 44 %
+## [FrogRiverOne](FrogRiverOne.md) 54 %
