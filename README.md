@@ -7,3 +7,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [FrogJmp](FrogJmp.md) 44 %
 ## [FrogRiverOne](FrogRiverOne.md) 54 %
 ## [PermCheck](PermCheck.md) 41 %
+## [MaxCounters](MaxCounters.md) 55 %
