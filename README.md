@@ -9,3 +9,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [PermCheck](PermCheck.md) 41 %
 ## [MaxCounters](MaxCounters.md) 55 %
 ## [MissingInteger](MissingInteger.md) 33 %
+## [CountDiv](CountDiv.md) 50 %
