@@ -6,3 +6,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [OddOccurrenciesInArray](OddOccurrenciesInArray.md) 33%
 ## [FrogJmp](FrogJmp.md) 44 %
 ## [FrogRiverOne](FrogRiverOne.md) 54 %
+## [PermCheck](PermCheck.md) 41 %
