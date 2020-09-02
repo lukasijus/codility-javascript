@@ -12,4 +12,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [CountDiv](CountDiv.md) 50 %
 ## [GenomicRangeQuery](GenomicRangeQuery.md) 62 %
 ## [DistinctNum](Distinct.md) 100 %
-## [Triangle](Triangle.md) 100 %
+## [Triangle](Triangle.md) 75 %
