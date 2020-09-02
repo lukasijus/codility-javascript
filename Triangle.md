@@ -1,3 +1,5 @@
+# Triangle
+
 An array A consisting of N integers is given. A triplet (P, Q, R) is triangular if 0 ≤ P < Q < R < N and:
 
 A[P] + A[Q] > A[R],
@@ -30,11 +32,7 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [0..100,000];
 each element of array A is an integer within the range [−2,147,483,648..2,147,483,647].
 
-´´´
-javascript
-
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
+```javascript
 
 function solution(A) {
     // write your code in JavaScript (Node.js 8.9.4)
@@ -59,4 +57,5 @@ function solution(A) {
     }
     return 0
 }
-´´´
+
+```
