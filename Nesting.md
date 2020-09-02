@@ -20,8 +20,7 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [0..1,000,000];
 string S consists only of the characters "(" and/or ")
 
-```
-javascript
+```javascript
 
 / you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
