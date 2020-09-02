@@ -13,3 +13,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [GenomicRangeQuery](GenomicRangeQuery.md) 62 %
 ## [DistinctNum](Distinct.md) 100 %
 ## [Triangle](Triangle.md) 75 %
+## [Brackets](Brackets.md) 50 %
