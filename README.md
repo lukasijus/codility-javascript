@@ -15,4 +15,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [Triangle](Triangle.md) 75 %
 ## [Brackets](Brackets.md) 50 %
 ## [Nesting](Nesting.md) 87 %
-## [Dominator](Dominator) 66 %
+## [Dominator](Dominator.md) 66 %
