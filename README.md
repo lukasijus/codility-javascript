@@ -16,3 +16,5 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [Brackets](Brackets.md) 50 %
 ## [Nesting](Nesting.md) 87 %
 ## [Dominator](Dominator.md) 66 %
+## [EquiLeaders](EquiLeaders.md) 100 %
+
