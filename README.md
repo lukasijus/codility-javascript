@@ -17,4 +17,5 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [Nesting](Nesting.md) 87 %
 ## [Dominator](Dominator.md) 66 %
 ## [EquiLeaders](EquiLeaders.md) 100 %
+## [MaxProfit](MaxProfit.md) 100 %
 
