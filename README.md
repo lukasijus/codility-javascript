@@ -20,3 +20,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [MaxProfit](MaxProfit.md) 100 %
 ## [MaxSilceSum](MaxSilceSum.md) 100 %
 ## [MaxDoubleSilceSum](MaxDoubleSilceSum.md) 100 %
+## [CountFactors](CountFactors.md) 71 %
