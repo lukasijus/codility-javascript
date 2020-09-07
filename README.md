@@ -22,3 +22,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [MaxDoubleSilceSum](MaxDoubleSilceSum.md) 100 %
 ## [CountFactors](CountFactors.md) 71 %
 ## [Flags](Flags.md) 46 %
+## [MinPerimeterRectangle](MinPerimeterRectangle.md) 100 %
