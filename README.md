@@ -24,3 +24,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [Flags](Flags.md) 46 %
 ## [MinPerimeterRectangle](MinPerimeterRectangle.md) 100 %
 ## [Peaks](Peaks.md) 36 %
+## [CountNonDivisor](CountNonDivisor.md) 66 %
