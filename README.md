@@ -25,3 +25,4 @@ Javascript lessons from https://app.codility.com/programmers/lessons/1-iteration
 ## [MinPerimeterRectangle](MinPerimeterRectangle.md) 100 %
 ## [Peaks](Peaks.md) 36 %
 ## [CountNonDivisor](CountNonDivisor.md) 66 %
+## [ChocolatesByNumbers](ChocolatesByNumbers.md) 75 %
